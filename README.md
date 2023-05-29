@@ -1,5 +1,5 @@
 # Built and Deployed a Responsive Website on Sushi Ordering Landing Page 
-![Sushi](https://i.ibb.co/dBxww2c/Sushi.png)
+
 
 
 In this project , I have used : 
